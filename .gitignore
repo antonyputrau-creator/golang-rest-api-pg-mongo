@@ -1,0 +1,8 @@
+.env
+/vendor
+/*.exe
+/*.bin
+/pkg/
+/bin/
+*.o
+*.so
